@@ -1,8 +1,10 @@
-## Hi there 👋
-
+**Hello!**
+*- 🔭 I'm a beginner in networking and system administration*
+*- ⚡ I'm also learning Python and DevOps*
+*- 📫 My contacts: @Latesch (tg)*
 <!--
 **Latesch/Latesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![MasterHead](your image link)](your GitHub link)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
